@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notmike101" alt="notmike101" /></a> </p>
 
-- 🔭 I’m currently working on **A few private projects**
+- 🔭 I’m currently working on [**Pack3D**](https://github.com/notmike101/pack3d)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Vue3 (Compsition API)**
 
-- 🤝 I’m looking for help with **Website Design**
+- 🤝 I’m looking for help with **web application development**
 
 - 👨‍💻 All of my projects are available at [https://mikeorozco.dev](https://mikeorozco.dev)
 
-- ⚡ Fun fact: **In my free time, I save the world from zombies**
+- ⚡ Fun fact: **In my free time, I save the world from digital zombies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
