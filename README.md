@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [**Pack3D**](https://github.com/notmike101/pack3d)
 
-- 🌱 I’m currently learning **Vue3 (Compsition API)**
-
-- 🤝 I’m looking for help with **web application development**
-
-- 👨‍💻 All of my projects are available at [https://mikeorozco.dev](https://mikeorozco.dev)
+- 👨‍💻 My personal website and notable projects are available at [https://mikeorozco.dev](https://mikeorozco.dev)
 
 - ⚡ Fun fact: **In my free time, I save the world from digital zombies**
 
