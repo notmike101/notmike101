@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mike and I'm a software engineerthat gets bored a lot</h2>
+<h2 align="left">Hi 👋! My name is Mike and I'm a software engineer that gets bored a lot</h2>
 
 ###
 
