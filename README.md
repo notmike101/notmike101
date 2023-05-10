@@ -82,8 +82,6 @@
 
 ###
 
-🔭 I’m currently working on Pack3D
-
 👨‍💻 My personal website and notable projects are available at https://mikeorozco.dev
 
 ###
