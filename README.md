@@ -82,6 +82,6 @@
 
 ###
 
-👨‍💻 My personal website and notable projects are available at https://mikeorozco.dev
+👨‍💻 My personal website (that I should update more often than I do) and notable projects are available at https://mikeorozco.dev
 
 ###
