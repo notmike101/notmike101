@@ -1,87 +1,120 @@
-<h2 align="left">Hi 👋! My name is Mike and I'm a software engineer that gets bored a lot</h2>
+# Hello! I'm Mike
 
-###
+**Software engineer & architect**
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=notmike101" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=notmike101" height="150" alt="languages graph"  />
-</div>
+I design systems, write code, and build tools that make software easier to develop, understand, and maintain. My projects span web and desktop applications, infrastructure, developer tooling, and interactive 3D.
 
+Most of them start with something I want to understand, improve, or make less annoying. Sometimes that means building an application. Sometimes it means digging into an existing one to find out how it actually works.
 
-###
+## Engineering interests
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/7198316?v=4"  />
+**Applications & infrastructure** - Frontend and backend development, desktop applications, APIs, self-hosted services, and the systems that connect them.
 
-###
+**Developer tooling & internals** - Build tools, plugins, automation, runtime behavior, and reverse engineering. I like making existing software more useful and understanding what happens beneath its abstractions.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="42" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" width="42" alt="digitalocean logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="42" alt="electron logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" width="42" alt="less logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="42" alt="lua logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30" width="42" alt="magento logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" width="42" alt="nuxtjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="42" alt="putty logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" width="42" alt="qt logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" width="42" alt="sequelize logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" width="42" alt="socketio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" width="42" alt="threejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="42" alt="webpack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" width="42" alt="woocommerce logo"  />
-</div>
+**Interactive 3D & games** - Real-time rendering, asset pipelines, optimization, and multiplayer experiments with Three.js, WebGPU, Godot, and Blender.
 
-###
+## How I approach software
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCR1_2vvBCJBve9PiQ5jrveg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/notmike101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mikeoroz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+I care about understanding a system well enough to explain its tradeoffs, debug its failures, and change it deliberately. I prefer clear interfaces, explicit assumptions, and tests that check actual behavior.
 
-###
+I choose languages and frameworks around the problem. I'm comfortable moving between application code, infrastructure, and lower-level details when that's what a solution needs.
 
-👨‍💻 My personal website (that I should update more often than I do) and notable projects are available at https://mikeorozco.dev
+I use AI-assisted tools alongside hands-on coding, debugging, and review.
 
-###
+## Languages & tools
+
+A selection from current projects and past experience. The stack depends on the problem.
+
+<!-- Existing upstream SVGs: Devicon v2.17.0; Skill Icons commit 7f7e691e71aec64e8354bf697835e009d1ad80f8. -->
+
+### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Rust.svg" width="36" height="36" alt="Rust" title="Rust" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" title="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/lua/lua-original.svg" width="36" height="36" alt="Lua" title="Lua" />
+</p>
+
+TypeScript · JavaScript · Python · Rust · C# · C++ · PHP · Lua
+
+### Web & desktop
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" title="Vue" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/electron/electron-original.svg" width="36" height="36" alt="Electron" title="Electron" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" title="Vite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
+
+Node.js · Vue · React · Electron · Vite · HTML5 · CSS3 · Tailwind CSS
+
+### Infrastructure & data
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" title="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" title="Azure" />
+</p>
+
+Linux · Docker · PostgreSQL · MySQL · MongoDB · Nginx · Cloudflare · Azure
+
+### 3D & games
+
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ThreeJS-Light.svg" width="36" height="36" alt="Three.js" title="Three.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/babylonjs/babylonjs-original.svg" width="36" height="36" alt="Babylon.js" title="Babylon.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/godot/godot-original.svg" width="36" height="36" alt="Godot" title="Godot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" title="Blender" />
+</p>
+
+Three.js · Babylon.js · Godot · Blender
+
+### Development & testing
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" title="Playwright" />
+</p>
+
+Git · VS Code · Jest · Playwright
+
+**Also in the mix:** WebGPU · MCP · Local LLMs · Coding-agent integrations
+
+<details>
+<summary><strong>More tools I've used</strong></summary>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" title="Nuxt" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery" title="jQuery" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" title="Sass" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" title="Webpack" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/qt/qt-original.svg" width="36" height="36" alt="Qt" title="Qt" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" title="Redux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/storybook/storybook-original.svg" width="36" height="36" alt="Storybook" title="Storybook" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/digitalocean/digitalocean-original.svg" width="36" height="36" alt="DigitalOcean" title="DigitalOcean" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/debian/debian-original.svg" width="36" height="36" alt="Debian" title="Debian" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/magento/magento-original.svg" width="36" height="36" alt="Magento" title="Magento" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/woocommerce/woocommerce-original.svg" width="36" height="36" alt="WooCommerce" title="WooCommerce" />
+</p>
+
+Nuxt · jQuery · Bootstrap · Sass · Webpack · Qt · Redux · Storybook · DigitalOcean · Debian · Magento · WooCommerce
+
+</details>
