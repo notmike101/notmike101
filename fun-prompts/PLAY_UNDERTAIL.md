@@ -31,6 +31,8 @@ Engineering is a means to accomplish your gameplay objectives. It must not becom
 
 `C:\Games\steam\steamapps\common\Undertale`
 
+You may stop and start the game as needed.
+
 ### Engineering workspace
 
 `D:\ai-undertail`
